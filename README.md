@@ -1,4 +1,4 @@
-apt apdate 
-apt upgrade
-apt install git
+$ apt apdate
+$ apt upgrade
+$ apt install git
 
