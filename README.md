@@ -1,2 +1,4 @@
-# Hack-medsos
-Script hack
+apt apdate 
+apt upgrade
+apt install git
+
